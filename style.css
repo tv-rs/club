@@ -34,6 +34,7 @@ h1 {
   --button-color-hover: #ddd;
   background: var(--bg);
   border-radius: 1.6rem;
+  letter-spacing: 0.07em;
   padding: 0.2rem;
   width: 20rem;
   height: 30rem;
